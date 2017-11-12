@@ -9,4 +9,7 @@ Students can sign up for classes and submit anonymous teacher evaluations.
     
 Experience this app live on Heroku: https://mcregister.herokuapp.com          
 Students don't need to sign up for exploring the website;          
-Teacher can sign up/sign in with an account.
+Teacher can sign up with a new account.    
+(Free feel to try login with pre-created account-- <b>Username:teacher/Password:password</b>     
+or try login with admin's account: <b>Username:admin/Password:password</b>)       
+
